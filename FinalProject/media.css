@@ -71,6 +71,7 @@
     .header h1 {width: 74%; margin-left: 2.5%;}
     #logo {width: 20%; margin-right: 2.5%;}
     .hereWeAre {margin-left: 5%; margin-right: 5%; width: 90%;}
+    .problem, .answer {height: 120vw;}
 }
 
 @media screen and (min-width: 1200px) {
@@ -94,4 +95,5 @@
     .header h1 {width: 74%; margin-left: 2.5%;}
     #logo {width: 20%; margin-right: 2.5%;}
     .hereWeAre {margin-left: 5%; margin-right: 5%; width: 90%;}
+    .problem, .answer {height: 85vw;}
 }
