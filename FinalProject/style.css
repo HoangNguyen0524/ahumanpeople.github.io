@@ -181,6 +181,10 @@ p a:hover {
     background-color: var(--blu);
 }
 
+.problem > p {
+    color: White;
+}
+
 .hereWeAre {
     float: left;
     margin-bottom: 2em;
