@@ -181,7 +181,7 @@ p a:hover {
     background-color: var(--blu);
 }
 
-.problem > p {
+.problem > p, .answer > p {
     color: White;
 }
 
